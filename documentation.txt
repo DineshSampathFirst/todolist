@@ -1,0 +1,21 @@
+NAME:PAMPANA DINESH SAI SAMPATH
+REGNO:22BCE9686
+
+To-Do List Database Project - Documentation
+
+1. Introduction:
+This database supports a full-featured task management system for multiple users. It includes categorization, priorities, and labels.
+
+2. Schema Overview:
+The schema includes 6 interrelated tables with foreign key constraints and a many-to-many relationship between tasks and labels.
+
+3. SQL Implementation:
+Tables are normalized, with primary keys, foreign keys, and constraint definitions. See schema.sql and sample_data.sql for implementation.
+
+4. Query Capabilities:
+The project includes standard CRUD operations, joins, groupings, subqueries, and filtering with real-world examples.
+
+5. ER Diagram:
+See 'todo_er_diagram.png' for the visual schema representation.
+
+This project demonstrates best practices in relational database design, efficiency, and data integrity.
